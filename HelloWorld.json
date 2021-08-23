@@ -1,0 +1,13 @@
+          {
+  "version": "v1",
+  "updateTime": 123,
+  "scope": "Tutorial",
+  "source": "",
+  "topology" : [
+    {
+      "uniqueId": "Hello_World_BusinessApp",
+      "type": "businessApplication",
+      "name": "Hello World Tutorial"
+    }
+  ]
+}
